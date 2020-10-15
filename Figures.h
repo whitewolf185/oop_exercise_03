@@ -1,0 +1,10 @@
+#ifndef OOP_EXERSICE_03_FIGURES_H
+#define OOP_EXERSICE_03_FIGURES_H
+
+
+class Figures {
+
+};
+
+
+#endif //OOP_EXERSICE_03_FIGURES_H

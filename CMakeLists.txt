@@ -7,4 +7,9 @@ include_directories(.)
 
 add_executable(oop_exersice_03
         Figures.h
-        main.cpp)
+        main.cpp
+        Rhombus.h
+        Rectangle.h
+        Trapeze.h
+        Rectangle.cpp
+        Trapeze.cpp Rhombus.cpp Coord.h)

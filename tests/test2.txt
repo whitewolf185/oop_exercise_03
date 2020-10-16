@@ -1,0 +1,38 @@
+Input rectangle. The First one is point. The second one are a and b
+x, y is a left bottom corner coords
+a and b are width and height
+0 0
+4 2
+Input trapeze. The First one is point. The second one are a, b and c.
+x, y is a left bottom corner coords
+a, b and c are larger, smaller base and side
+0 0
+1 2 3
+Input rhombus. The First one is point. The second one are d1 and d2.
+x, y is a left corner coords
+d1 is a bigger diagonal. d2 is smaller diagonal
+0 0
+5 1
+Rectangle vertices: [(0, 0), (0, 2), (4, 2), (4, 0)]
+Center of figure is (2, 1)
+Square of figure is 8
+Trapeze vertices: [(0, 0), (0.5, 2.95804), (1.5, 2.95804), (2, 0)]
+Center of figure is (1, 1.47902)
+Square of figure is 4.43706
+Rhombus vertices: [ (0, 0), (2.5, 0.5), (5, 0), (-2.5, -0.5) ]
+
+Center of figure is (2.5, 0)
+Square of figure is 2.5
+Total square: 14.9371
+Input index to remove figure
+2
+Rectangle vertices: [(0, 0), (0, 2), (4, 2), (4, 0)]
+Center of figure is (2, 1)
+Square of figure is 8
+Rhombus vertices: [ (0, 0), (2.5, 0.5), (5, 0), (-2.5, -0.5) ]
+
+Center of figure is (2.5, 0)
+Square of figure is 2.5
+Total square after erase: 10.5
+
+Process finished with exit code 0

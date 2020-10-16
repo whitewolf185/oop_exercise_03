@@ -1,0 +1,8 @@
+Input rectangle. The First one is point. The second one are a and b
+x, y is a left bottom corner coords
+a and b are width and height
+0 0
+-1 -1
+Invalid rectangle parameters!
+
+Process finished with exit code 1
